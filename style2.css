@@ -1,0 +1,31 @@
+body {
+    margin: 3;
+    padding: 0;
+    background-image: url('./img/purple.jpg');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    color: #ddd;
+}
+
+h2 {
+    color: rgb(126, 27, 224);
+}
+
+a {
+    color: rgb(129, 18, 18);
+    text-decoration: none; 
+}
+
+.logo1 {
+    padding: 10px;
+    height: 10vh;
+}
+
+.logo1 img {
+    width: 30px; 
+    height: auto;
+    vertical-align: middle; 
+    margin-right: 5px;
+}
+
